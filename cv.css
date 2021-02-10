@@ -1,0 +1,528 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+background-color: gray;
+
+font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+
+
+/*--------------------
+  header start
+-----------------------*/
+
+
+.container{
+
+max-width: 1000px;
+background-color: rgb(55, 179, 55);
+margin: 0 auto;
+padding: 20px;
+
+
+
+
+}
+
+.profile-image{
+max-width: 120px;
+height: 150;
+border: 2px solid black;
+border-radius: 40%;
+float: left;
+
+
+animation-name: img-mehedi;
+
+animation-duration: 10s;
+animation-timing-function: linear;
+animation-iteration-count: infinite;
+animation-fill-mode: forwards;
+
+}
+
+
+@keyframes img-mehedi{
+
+
+0%{
+top: 0;
+left: 0;
+
+max-width: 200px;
+}
+
+50%{
+max-width: 300px;
+bottom: 100px;
+left: 0;
+opacity: 0.5;
+border: 5px solid green;
+
+}
+100%{
+max-width: 500px;
+bottom: 200px;
+border:5px solid red;
+
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+.header-bio{
+float: left;
+padding: 30px;
+
+
+
+}
+
+h1,h2,h3,h4,h5{
+color: rgb(16, 2, 43);
+font-weight: bolder;
+
+
+}
+
+.header-contact {
+float: right;
+padding: 40px;
+
+
+
+
+}
+
+.header-contact a{
+text-decoration: none;
+
+color: rgb(16, 2, 43);
+font-weight: bolder;
+
+}
+
+
+.header-contact a:hover{
+
+text-decoration: underline;
+color: rgb(1, 16, 36);
+
+cursor: not-allowed;
+
+}
+
+
+.div-clear{
+
+clear: both;
+
+}
+
+hr{
+
+border: 3px solid rgb(48, 43, 43);
+
+width: 100%;
+margin: 20px auto;
+border-bottom: none;
+
+}
+/*--------------------
+  header end
+-----------------------*/
+
+
+/*----------------------
+personal section start
+------------------------*/
+
+.personal-section{
+
+
+
+
+
+}
+
+
+.right-div{
+
+width: 30%;
+float: left;
+
+
+
+
+}
+
+
+
+.left-div{
+width: 70%;
+float: left;
+
+
+
+
+
+}
+
+.left-div p{
+
+color: rgb(16, 2, 43); ;
+
+
+
+
+}
+
+.common-hr{
+
+
+
+    border: 1px solid rgb(48, 43, 43);
+
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+    
+
+
+
+
+}
+/*----------------------
+personal section end
+------------------------*/
+
+
+
+.work-experience{
+
+
+
+
+
+}
+
+.content{
+
+
+
+
+
+}
+
+
+.left-div{
+
+
+
+
+
+
+
+
+}
+
+.right-div{
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.edu-template-left{
+    float: left;
+    width: 50%;
+}
+.edu-template-right{
+    float: right;
+    width: 50%;
+}
+
+
+
+/*-------------------
+footer start
+-----------------*/
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.btn{
+    border:none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 2rem;
+   
+   transition: 7s;
+}
+
+
+.bottom-container p{
+font-size: 1rem;
+color: white;
+
+transition: 5s;
+
+}
+
+.bottom-container .btn :hover{
+    border:none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: 5s;
+    transform: rotate(360deg)scale(3) ;
+ 
+}
+
+
+/*-------------------
+footer end
+-----------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
